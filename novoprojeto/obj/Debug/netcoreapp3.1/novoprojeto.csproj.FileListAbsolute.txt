@@ -1,0 +1,13 @@
+C:\Users\carli\Desktop\novoprojeto\obj\Debug\netcoreapp3.1\novoprojeto.csprojAssemblyReference.cache
+C:\Users\carli\Desktop\novoprojeto\obj\Debug\netcoreapp3.1\novoprojeto.AssemblyInfoInputs.cache
+C:\Users\carli\Desktop\novoprojeto\obj\Debug\netcoreapp3.1\novoprojeto.AssemblyInfo.cs
+C:\Users\carli\Desktop\novoprojeto\obj\Debug\netcoreapp3.1\novoprojeto.csproj.CoreCompileInputs.cache
+C:\Users\carli\Desktop\novoprojeto\bin\Debug\netcoreapp3.1\novoprojeto.exe
+C:\Users\carli\Desktop\novoprojeto\bin\Debug\netcoreapp3.1\novoprojeto.deps.json
+C:\Users\carli\Desktop\novoprojeto\bin\Debug\netcoreapp3.1\novoprojeto.runtimeconfig.json
+C:\Users\carli\Desktop\novoprojeto\bin\Debug\netcoreapp3.1\novoprojeto.runtimeconfig.dev.json
+C:\Users\carli\Desktop\novoprojeto\bin\Debug\netcoreapp3.1\novoprojeto.dll
+C:\Users\carli\Desktop\novoprojeto\bin\Debug\netcoreapp3.1\novoprojeto.pdb
+C:\Users\carli\Desktop\novoprojeto\obj\Debug\netcoreapp3.1\novoprojeto.dll
+C:\Users\carli\Desktop\novoprojeto\obj\Debug\netcoreapp3.1\novoprojeto.pdb
+C:\Users\carli\Desktop\novoprojeto\obj\Debug\netcoreapp3.1\novoprojeto.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\carli\Desktop\projetoAula\bin\Debug\net7.0\projetoAula.exe
+C:\Users\carli\Desktop\projetoAula\bin\Debug\net7.0\projetoAula.deps.json
+C:\Users\carli\Desktop\projetoAula\bin\Debug\net7.0\projetoAula.runtimeconfig.json
+C:\Users\carli\Desktop\projetoAula\bin\Debug\net7.0\projetoAula.dll
+C:\Users\carli\Desktop\projetoAula\bin\Debug\net7.0\projetoAula.pdb
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.csproj.AssemblyReference.cache
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.AssemblyInfoInputs.cache
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.AssemblyInfo.cs
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.csproj.CoreCompileInputs.cache
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.dll
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\refint\projetoAula.dll
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.pdb
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\projetoAula.genruntimeconfig.cache
+C:\Users\carli\Desktop\projetoAula\obj\Debug\net7.0\ref\projetoAula.dll

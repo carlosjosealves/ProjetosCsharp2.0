@@ -1,0 +1,15 @@
+C:\Users\carli\Desktop\Cronomero\bin\Debug\net7.0\Cronomero.exe
+C:\Users\carli\Desktop\Cronomero\bin\Debug\net7.0\Cronomero.deps.json
+C:\Users\carli\Desktop\Cronomero\bin\Debug\net7.0\Cronomero.runtimeconfig.json
+C:\Users\carli\Desktop\Cronomero\bin\Debug\net7.0\Cronomero.dll
+C:\Users\carli\Desktop\Cronomero\bin\Debug\net7.0\Cronomero.pdb
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.csproj.AssemblyReference.cache
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.AssemblyInfoInputs.cache
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.AssemblyInfo.cs
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.csproj.CoreCompileInputs.cache
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.dll
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\refint\Cronomero.dll
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.pdb
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\Cronomero.genruntimeconfig.cache
+C:\Users\carli\Desktop\Cronomero\obj\Debug\net7.0\ref\Cronomero.dll

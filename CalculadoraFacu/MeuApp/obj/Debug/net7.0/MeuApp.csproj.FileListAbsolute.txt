@@ -1,0 +1,15 @@
+C:\Users\carli\Desktop\Cursobalta\MeuApp\bin\Debug\net7.0\MeuApp.exe
+C:\Users\carli\Desktop\Cursobalta\MeuApp\bin\Debug\net7.0\MeuApp.deps.json
+C:\Users\carli\Desktop\Cursobalta\MeuApp\bin\Debug\net7.0\MeuApp.runtimeconfig.json
+C:\Users\carli\Desktop\Cursobalta\MeuApp\bin\Debug\net7.0\MeuApp.dll
+C:\Users\carli\Desktop\Cursobalta\MeuApp\bin\Debug\net7.0\MeuApp.pdb
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.csproj.AssemblyReference.cache
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.AssemblyInfo.cs
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.dll
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\refint\MeuApp.dll
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.pdb
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\MeuApp.genruntimeconfig.cache
+C:\Users\carli\Desktop\Cursobalta\MeuApp\obj\Debug\net7.0\ref\MeuApp.dll

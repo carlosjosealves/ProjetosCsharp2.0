@@ -1,0 +1,15 @@
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\bin\Debug\net7.0\Cadastro-Novo.exe
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\bin\Debug\net7.0\Cadastro-Novo.deps.json
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\bin\Debug\net7.0\Cadastro-Novo.runtimeconfig.json
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\bin\Debug\net7.0\Cadastro-Novo.dll
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\bin\Debug\net7.0\Cadastro-Novo.pdb
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.csproj.AssemblyReference.cache
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.AssemblyInfoInputs.cache
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.AssemblyInfo.cs
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.csproj.CoreCompileInputs.cache
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.dll
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\refint\Cadastro-Novo.dll
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.pdb
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\Cadastro-Novo.genruntimeconfig.cache
+C:\Users\carli\Desktop\NovoSistema\Cadastro-Novo\obj\Debug\net7.0\ref\Cadastro-Novo.dll

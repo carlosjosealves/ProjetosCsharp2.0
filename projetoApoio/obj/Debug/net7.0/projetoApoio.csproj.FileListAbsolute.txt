@@ -1,0 +1,15 @@
+C:\Users\carli\Desktop\projetoApoio\bin\Debug\net7.0\projetoApoio.exe
+C:\Users\carli\Desktop\projetoApoio\bin\Debug\net7.0\projetoApoio.deps.json
+C:\Users\carli\Desktop\projetoApoio\bin\Debug\net7.0\projetoApoio.runtimeconfig.json
+C:\Users\carli\Desktop\projetoApoio\bin\Debug\net7.0\projetoApoio.dll
+C:\Users\carli\Desktop\projetoApoio\bin\Debug\net7.0\projetoApoio.pdb
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.csproj.AssemblyReference.cache
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.AssemblyInfoInputs.cache
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.AssemblyInfo.cs
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.csproj.CoreCompileInputs.cache
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.dll
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\refint\projetoApoio.dll
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.pdb
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\projetoApoio.genruntimeconfig.cache
+C:\Users\carli\Desktop\projetoApoio\obj\Debug\net7.0\ref\projetoApoio.dll
